@@ -31,11 +31,11 @@ A subscription link, a single link, a `.conf` file, a `vpn://` key or a QR code:
 
 ![Importing a subscription: the client shows the servers, protocols and quota before importing](assets/import.png)
 
-### Russian services direct, the rest through your server
+### You decide what goes through your server and what goes direct
 
-Ready-made rule sets in one tap, your own rules by domain, geosite/geoip and IP ranges, ad blocking. "Check an address" tells you which rule will fire. On Android, choose which apps use the VPN.
+Rules by domain, geosite/geoip, IP ranges and lists decide for every address: through your server, direct, or blocked. Local sites and your home network can go direct, the services you need through the server, and ads get cut off. Ready-made rule sets (AI services, streaming, social networks, ad blocking) install in one tap, and "Check an address" tells you which rule will fire. On Android, choose which apps use the VPN.
 
-![Routing: the Russian Default All preset and an address check showing which rule fires](assets/routing.png)
+![Routing: the AI Services preset and an address check showing which rule fires](assets/routing.png)
 
 ### Kill switch
 
